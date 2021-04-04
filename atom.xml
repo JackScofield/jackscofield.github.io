@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jackscofield.github.io</id>
     <title>APu&apos;s Blog</title>
-    <updated>2021-04-04T13:42:12.467Z</updated>
+    <updated>2021-04-04T15:23:23.070Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jackscofield.github.io"/>
     <link rel="self" href="https://jackscofield.github.io/atom.xml"/>
@@ -10,6 +10,16 @@
     <logo>https://jackscofield.github.io/images/avatar.png</logo>
     <icon>https://jackscofield.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, APu&apos;s Blog</rights>
+    <entry>
+        <title type="html"><![CDATA[Kruskal Algorithm]]></title>
+        <id>https://jackscofield.github.io/post/kruskal-algorithm/</id>
+        <link href="https://jackscofield.github.io/post/kruskal-algorithm/">
+        </link>
+        <updated>2021-04-04T15:21:04.000Z</updated>
+        <content type="html"><![CDATA[<p>Kruskal算法会得到一个minimum spanning tree，简单的来说就是获得一张无向图的最短的能把所有node都链接在一次的path。<br>
+数据结构：<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>π</mi></mrow><annotation encoding="application/x-tex">\pi</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.43056em;vertical-align:0em;"></span><span class="mord mathdefault" style="margin-right:0.03588em;">π</span></span></span></span>[x]</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Homework4]]></title>
         <id>https://jackscofield.github.io/post/homework4/</id>
